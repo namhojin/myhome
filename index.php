@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css?ver=1">
+    <title>hoya</title>
+  </head>
+  <body>
+    <header>
+      <a href="index.php"><img src="logo.png" alt="LOGO"></a>
+      <h1>HOME</h1>
+    </header>
+
+    <table>
+      <caption>7월</caption>
+      <thead>
+        <tr>
+          <th>일</th>
+          <th>월</th>
+          <th>화</th>
+          <th>수</th>
+          <th>목</th>
+          <th>금</th>
+          <th>토</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+        </tr>
+        <tr>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+        </tr>
+        <tr>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+        </tr>
+        <tr>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+        </tr>
+        <tr>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+          <td>Dolor</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td colspan="2">Table Foot</td>
+        </tr>
+      </tfoot>
+    </table>
+
+  </body>
+</html>
