@@ -18,10 +18,14 @@ header img{
   width: 150px;
   height: 60px;
 }
-nav{
-  width: 300px;
-  height: 200px;
-  float: left;
+nav ul li.btn-Lavender{
+  background-color: Lavender;
+}
+nav ul li.btn-LightBlue{
+  background-color: LightBlue;
+}
+nav ul li.btn-LemonChiffon{
+  background-color: LemonChiffon;
 }
 article{
   border-left: 1px solid gray;
@@ -38,4 +42,10 @@ table {
 }
 table, th, td {
   border: 1px solid #bcbcbc;
+}
+#sun{
+  color: red;
+}
+#sat{
+  color: blue;
 }
